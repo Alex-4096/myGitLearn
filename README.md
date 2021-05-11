@@ -1,2 +1,4 @@
-README erstellt
-License: MIT
+*README.md erstellt
+*License: MIT
+-
+# My *Git-Learn*
