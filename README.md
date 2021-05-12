@@ -7,5 +7,6 @@
   --
   --Test-Aenderung in README.md
   --in Ordner _GitTesten_
-
-
+-
+-Aenderung in README ruckgaengig
+  --mit checkout -> Test
