@@ -25,3 +25,5 @@
   3a. changeREADME/stored/status
   3b. add/reset/checkout/status
   3c. test seccessfull
+4. send from GitTesten: 
+  4a. pull/changedREADME/push
