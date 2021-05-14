@@ -21,3 +21,7 @@
 2. git reset-test
   2a. change README
   2b. git add/status/reset
+3. git-test
+  3a. changeREADME/stored/status
+  3b. add/reset/checkout/status
+  3c. test seccessfull
