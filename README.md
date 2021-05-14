@@ -18,3 +18,6 @@
   1a. create new ssh-key pair
   1b. add new ssh-key on GitHub account
   1c. connecting test -> successfull
+2. git reset-test
+  2a. change README
+  2b. git add/status/reset
