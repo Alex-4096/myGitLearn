@@ -38,3 +38,4 @@
   6a. new pull request from GitHub
   6b. test: stash apply
 >>>>>>> Stashed changes
+7. first stash-test: error
