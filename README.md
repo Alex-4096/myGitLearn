@@ -38,4 +38,17 @@
   6a. new pull request from GitHub
   6b. test: stash apply
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 7. first stash-test: error
+=======
+### New Branch: 
+1. Create new branch alex-2048 local
+  1a. switched to alex-2048
+  1b. merge new branch
+  1c. set-upstream origin "new branch"
+2. repeat test stash-function
+  2a. switched to master
+  2b. changed README
+  2c. stash/pull/stash apply
+3. delete line in .gitignore
+>>>>>>> Stashed changes
